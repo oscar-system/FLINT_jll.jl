@@ -1,0 +1,113 @@
+[[FLINT]]
+arch = "aarch64"
+git-tree-sha1 = "a92aef196d495ff21f3d98983c4a539cb9b857d4"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "b91ef6c7eb55ebb6df5233f32c551cb06fb6ea8ad20bb0452151a3389832980b"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.aarch64-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "aarch64"
+git-tree-sha1 = "0804a395cdf01ca2cca419e4dfce9aaac2c3c4f3"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "b393b9f5fa891be197a3c0db9087ea048f163ac95fe358819f0a3056dcf097ca"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.aarch64-linux-musl.tar.gz"
+[[FLINT]]
+arch = "armv7l"
+git-tree-sha1 = "5f7cf6a9485f64fb2dad9c98cc8982048cb61a7e"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "4948d3a8661f763aba2202f40795aab6b29549e2f3d04562158fab3b61552911"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.armv7l-linux-gnueabihf.tar.gz"
+[[FLINT]]
+arch = "armv7l"
+git-tree-sha1 = "23e4304afb5649925f27b3bef83b34e5ccc56e53"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "91015ceed553d293280ecad8511f86ea6bdb3178574d24f150a7d7c0fb8a9804"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.armv7l-linux-musleabihf.tar.gz"
+[[FLINT]]
+arch = "i686"
+git-tree-sha1 = "48cdf7b61900868969ecb585a08f8194421d9d1f"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "cdf3232f8f31c4e7d260194e1892f8bbb6a822da9cb0d2dd2440647badfdd55a"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.i686-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "i686"
+git-tree-sha1 = "18fd9d40cae705fa9f6c6d9b819a5b188189b789"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "51747bf938c5dfc67aa19be699859cf98fcf2ffed89897b9f1fc41ae652b9e3f"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.i686-linux-musl.tar.gz"
+[[FLINT]]
+arch = "i686"
+git-tree-sha1 = "4980841a0b958c0313361553de2061568804dc52"
+os = "windows"
+
+    [[FLINT.download]]
+    sha256 = "9d07a8263bb42749db9f4bb2a46470fe67bd43faa5ead816e63e4d3e841bc9e2"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.i686-w64-mingw32.tar.gz"
+[[FLINT]]
+arch = "powerpc64le"
+git-tree-sha1 = "62db6b7a876e898ed009b60a1b6a8e08f1efa7cc"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "8df3d612a45cc02bb71f6eb7ca785c4202614db57c83e4c6058109015a8be4ac"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.powerpc64le-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "ec599abce0f9561ac00663fad650caa6c3d32b92"
+os = "macos"
+
+    [[FLINT.download]]
+    sha256 = "29469aa575b040ae3397c4ad813e96fbd1e14552470dca81b2bed485734068a0"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.x86_64-apple-darwin14.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "ec738b695a05ade5a3fd7725e9290bb0b53fb31f"
+libc = "glibc"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "b8cc5737a4505fb03c1ee1f7311196f54a03f4b34eca6a5b7fa3e7fe1ba58651"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.x86_64-linux-gnu.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "56f4a13ba99da087e7c8ae15c9e74353a68f6c22"
+libc = "musl"
+os = "linux"
+
+    [[FLINT.download]]
+    sha256 = "6ed7097bb2d5b9871f3fb054017d4dded9220a2bc6688ca288da6fe31c6a04c9"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.x86_64-linux-musl.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "362021dfdff7f6f6af318d1e4e167b6f2e8bda99"
+os = "freebsd"
+
+    [[FLINT.download]]
+    sha256 = "0c6b73b88dad2ecc0b5481f0c295768f3f72ac003b256d6ebeb5b88cbba1a624"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.x86_64-unknown-freebsd11.1.tar.gz"
+[[FLINT]]
+arch = "x86_64"
+git-tree-sha1 = "ab1dd7580107195e69a460652fb45714d5f6e05a"
+os = "windows"
+
+    [[FLINT.download]]
+    sha256 = "1e62a0bb2b3cd22dde8e5076bd6c28b99803f887a28f49121cfc49816ff1b135"
+    url = "https://github.com/oscar-system/FLINT_jll.jl/releases/download/FLINT-v2.7.0-dev+0/FLINT.v2.7.0-dev.x86_64-w64-mingw32.tar.gz"
